@@ -1,0 +1,29 @@
+/**index.wxss**/
+.container,page{
+  height: 100%;
+  background: #B3D4DB ;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.logo{
+  width: 280rpx;
+  height: 280rpx;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 180rpx
+}
+.btn{
+  background: #B3D4DB;
+  color: rgb(63, 108, 129);
+  margin-top: 180rpx;
+  border:1px solid rgb(63, 108, 129);
+  width: 280rpx;
+  height: 80rpx;
+  text-align: center;
+  font-size: 28rpx;
+  line-height: 80rpx;
+}

@@ -1,0 +1,7 @@
+/* pages/read/read.wxss */
+swiper{
+    height: 500rpx;
+}
+.swiper-bg{
+    width: 100%;
+}

@@ -1,0 +1,10 @@
+<!--components/movie-item/movie-item.wxml-->
+<view class="item">
+    <image class="img" src="/images/千与千寻.jpg">
+    </image>
+    <text class="title">千与千寻</text>
+    <view class="btm"> 
+        <image class="star" src="/images/icon/star.png"></image>
+        <text class="rating">9.2</text>
+    </view>   
+</view>

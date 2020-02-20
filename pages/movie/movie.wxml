@@ -1,0 +1,11 @@
+<view class="item">
+    <view class="title">
+        <text>正在热映</text>
+        <text class="more">更多></text>
+    </view>
+    <view class="flex-grid">
+        <v-movie></v-movie>
+        <v-movie></v-movie>
+        <v-movie></v-movie>
+    </view>
+</view>
